@@ -1,0 +1,48 @@
+.main{
+    width: 500px;
+    text-align: center;
+    margin: 0% auto;
+    border: 2px solid red;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+h1 {
+
+    text-align: center;
+    background-color: palevioletred;
+    padding: 30px;
+    margin-top: 0px;
+    color: aliceblue
+}
+
+.addItem {
+
+position: relative;
+padding-bottom: 0px;
+height: 30px
+}
+
+.addtext {
+    width: 80%;
+    height:30px;
+    padding: 5px;
+    font-size: 20px
+
+}
+
+.addtext button{
+    width: 80%;
+    height:45px;
+    padding: 5px;
+ 
+}
+ul{
+    list-style: none;
+    font-size: 20px;
+    color: grey;
+    margin-left: -40px
+}
+li {
+    border-bottom: 1px solid palevioletred;
+
+}
